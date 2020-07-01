@@ -65,9 +65,10 @@ a{
     float: right;
 }
 .header_img img{
-    width: 70%;
+    width: 87%;
     height: 100%;
-    margin-top: 25px;
+    margin-top: -4px;
+    margin-left: 40px;
 
 }
 /*--------end of header-area-----------*/
@@ -78,9 +79,10 @@ a{
     float: left;
 }
 .under_header_img img{
-    width: 70%;
+    width: 87%;
     height: 100%;
-    margin-top: 25px;
+    margin-top: -4px;
+    margin-left: 40px;
 
 }
 .under_text_area{
