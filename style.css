@@ -23,6 +23,12 @@ a{
 
 /*---------------------------------------*/
 /*--------------header area-----------------*/
+.text_area_bg{
+    background: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
 .text_area{
     width: 45%;
     height: 300px;
@@ -73,6 +79,12 @@ a{
 }
 /*--------end of header-area-----------*/
 /*------------under header-----------------*/
+.under_header_bg{
+    background: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 30px;
+}
 .under_header_img{
     width: 50%;
     height: 440px;
@@ -111,6 +123,12 @@ a{
 }
 /*--------------end of under header-------------------*/
 /*---------showcase----------------------------*/
+.showcase_bg{
+    background: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 30px;
+}
 .showcase_header{
     text-align: center;
     font-weight: bold;
@@ -136,7 +154,12 @@ a{
 }
 /*-----------------end of showcase------------------*/
 /*----------------text-wrapper----------------------*/
-/*------------sms area--------------------*/
+.text_wrapper_bg{
+    background: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
 .text_wrapper{
     width: 100%;
     height: 373px;
